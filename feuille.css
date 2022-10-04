@@ -1,0 +1,40 @@
+body{
+    background-image: radial-gradient(circle at top, #CCDAE0, #EDF2F4);
+}
+
+header{
+    text-align: center;
+}
+h1{
+    color:   #EF233C;
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3{
+    color: #2B2D42;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration: dotted;
+}
+
+
+
+div{
+    text-align: center;
+    border: solid #8D99AE 2px;
+}
+
+img{
+    border: #2B2D42 2px solid;
+}
+
+ul{
+    list-style-type: none;
+}
+
+footer{
+    text-align: right;
+}
+
